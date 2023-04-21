@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from hippo.ksample import MMD
+from hyppo.ksample import MMD
 
 
 chat_id = 957195795 # Ваш chat ID, не меняйте название переменной
